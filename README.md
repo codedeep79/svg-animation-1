@@ -1,2 +1,2 @@
-# svg-animation-1
+# SVG Animation
 Svg animation with HTML, CSS, Javascript
